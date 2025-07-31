@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<IDataXMLCoder version="1.0">
+  <record javaclass="com.wm.data.ISMemDataImpl">
+    <array name="globalVariables" type="record" depth="1">
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">batchSize</value>
+        <value name="value">50</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">pub.client.smtp.to</value>
+        <value name="value">onesource.admin@perkinelmer.com</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">pub.client.smtp.cc</value>
+        <value name="value">DL-AES-webMethodsSupport-QA@PERKINELMER.COM</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">pub.client.smtp.bcc</value>
+        <value name="value">DL-AES-webMethodsSupport-QA@PERKINELMER.COM</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">pub.client.smtp.from</value>
+        <value name="value">webMethods-Admin-QA@perkinelmer.com</value>
+        <value name="isSecure">false</value>
+      </record>
+    </array>
+  </record>
+</IDataXMLCoder>
